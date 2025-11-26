@@ -1,4 +1,4 @@
-# 📊 Meus estudos em Análise de Dados e IA 
+# 📊 Meus estudos - Engenharia de Dados e IA 
 _Material referente aos exercídios e análises realizadas durante as aulas da minha Pós-graduação em Engenharia de dados e IA._
 ---
 ## 🌐 Visão Geral
